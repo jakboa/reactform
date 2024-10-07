@@ -1,0 +1,30 @@
+
+.QuestionPage {
+    display: inline-flex;
+    width: 70%;
+    background-color: brown;
+    border: solid 5px black;
+}
+
+.Question {
+    font-style: bold;
+    text-align: center;
+    padding: 5px 10px;
+    border: solid 5px yellow;
+    margin: 14px;
+}
+
+.Question h4 {
+    background-color: aqua;
+}
+
+
+.Question label {
+    display: inline-flex;
+    background-color: blue;
+    font-weight: 400px;
+    margin: 5px;
+}
+.Question input {
+    background-color: green;
+}
