@@ -1,5 +1,5 @@
 import QuestionPage from './QuestionPage';
-import Banner from './Banner';
+
 import ResultView from './ResultView';
 import FormData from './FormDataScript';
 import React, {useState} from 'react'
